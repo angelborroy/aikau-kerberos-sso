@@ -141,6 +141,7 @@
            <realm>KEENSOFT.LOCAL</realm>
            <endpoint-spn>http/dms.keensoft.local@KEENSOFT.LOCAL</endpoint-spn>
            <config-entry>ShareHTTP</config-entry>
+           <stripUserNameSuffix>true</stripUserNameSuffix>
         </kerberos>
       </Kerberos>
    </config>
